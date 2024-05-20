@@ -1,0 +1,22 @@
+{
+	"lessons": [
+		{
+			"name": "Йога",
+			"time": "20.09.2021 15:00",
+			"maxParticipants": 20,
+			"participants": 0
+		},
+		{
+			"name": "Подводный спорт",
+			"time": "21.09.2021 17:00",
+			"maxParticipants": 15,
+			"participants": 0
+		},
+		{
+			"name": "Бадминтон",
+			"time": "22.09.2021 19:00",
+			"maxParticipants": 10,
+			"participants": 0
+		}
+	]
+}
